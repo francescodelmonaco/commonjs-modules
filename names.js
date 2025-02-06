@@ -5,7 +5,7 @@ function nameFunction(firstName, lastName) {
     };
 
     return name;
-}
+};
 
 // console.log(nameFunction("Francesco", "Delmonaco"));
 
