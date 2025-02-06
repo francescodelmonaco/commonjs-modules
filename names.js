@@ -7,4 +7,8 @@ function nameFunction(firstName, lastName) {
     return name;
 }
 
-console.log(nameFunction("Francesco", "Delmonaco"));
+// console.log(nameFunction("Francesco", "Delmonaco"));
+
+export {
+    nameFunction
+};
