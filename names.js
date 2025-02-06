@@ -3,7 +3,6 @@ function nameFunction(firstName, lastName) {
         firstName,
         lastName
     };
-
     return name;
 };
 

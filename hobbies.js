@@ -1,6 +1,6 @@
 function hobbiesFunction(hobbyOne, hobbyTwo, hobbyThree) {
     const hobbies = [hobbyOne, hobbyTwo, hobbyThree];
-    return hobbies
+    return hobbies;
 };
 
 // console.log(hobbiesFunction("Musica", "Sport", "Informatica"));
